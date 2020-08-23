@@ -40,6 +40,6 @@ counter = 0
 def (board)
   while counter <= 9
     turn(board)
-    counter +=
+    counter += 1
   end
 end
